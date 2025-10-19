@@ -1,0 +1,2 @@
+# Ideas
+Summarize contract renewals
